@@ -8,4 +8,6 @@ Author : Archana Thangaraj
 
 3. Last Seen Code
 
-4. Attachments [images,videos,Audio, Doc] code
+4. Attachments [images,videos,Audio, Documents] code
+
+5. Hide Last Seen Code

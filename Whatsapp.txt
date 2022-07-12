@@ -11,3 +11,7 @@ Author : Archana Thangaraj
 4. Attachments [images,videos,Audio, Documents] code
 
 5. Hide Last Seen Code
+
+6. Add Audio Call feature
+
+7. Add Video call feature
